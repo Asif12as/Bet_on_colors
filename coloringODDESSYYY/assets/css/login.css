@@ -1,0 +1,56 @@
+
+/* Create two equal columns that floats next to each other
+.column1 {
+  float: left;
+    width: 25%,25%,25%,25%;
+ padding-left: 10px;
+ padding-right: 10px;
+
+  padding-bottom: 20px; */
+   /* Should be removed. Only for demonstration 
+}*/
+/* Clear floats after the columns 
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+      margin-bottom: -0.50cm;
+}*/
+     
+.textbox {
+     box-shadow: 0px 0px;
+  height: auto;
+  width: 300;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  font-size: 17px;
+  font-weight: 400;
+  margin: 0px 0;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+    
+.appHeader1 {
+	background-image: url("/images/new_bg.jpg");
+
+}
+
+/* Create two equal columns that floats next to each other */
+.column1 {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 40%, 35%, 25%;
+    float: left;
+   /* Should be removed. Only for demonstration */
+}
+/* Clear floats after the columns */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.right{
+    float:right;
+}

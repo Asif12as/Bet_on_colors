@@ -1,0 +1,249 @@
+
+.float{
+	position:fixed;
+	width:40px;
+	height:40px;
+	bottom:40px;
+	right:0px;
+	background-color:#1811CF;
+	color:#FFFFFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:35px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+
+   top:70%;
+}
+
+.my-float{
+    	color:#FFFFFF;
+	margin-top:3px;
+}
+
+
+.home{
+ 	width: 100vh;
+ 	background-size: cover;
+ 	background-position: center;
+ 	display: flex;
+ 	flex-wrap: wrap;
+   margin-top: 16px;
+    margin-bottom: -16px;
+    margin-left: 10px;
+ 	position: relative;
+ }
+ .home::before{
+ 	content: '';
+ 	position: absolute;
+ 	left:0;
+ 	top:0;
+ 	width: 100%;
+ 
+ 	background-color: rgba(0,0,0,0.8);
+ 	z-index: 1;
+ }
+
+ .home .home-text{
+ 	text-align: center;
+
+ 	z-index: 2;
+ }
+
+
+.home .home-text p{
+padding-left: 10px;
+	overflow: hidden;
+}
+.home .home-text p span{
+    font-size: 15px;
+    color:#ff2c45;
+    font-weight: 500;
+    display: inline-block;
+    line-height: 20px;
+    display: none;
+   
+    
+}
+
+.home .home-text p span.text-in{
+	display: block;
+	animation: textIn .5s ease;
+}
+.home .home-text p span.text-out{
+	animation: textOut .5s ease;
+}
+@keyframes textIn{
+	0%{
+		transform: translateY(100%);
+	}
+	100%{
+		transform: translateY(0%);
+	}
+}
+@keyframes textOut{
+	0%{
+		transform: translateY(0%);
+	}
+	100%{
+		transform: translateY(-100%);
+
+	}
+}
+.btn6 {
+    border-radius: 20px 20px 20px 20px;
+    border: 0px solid white;
+padding: 100px 100px;
+    transition: 0.5s;
+    
+}
+.btn7 {
+
+ background-color: #FFD700;
+   padding-bottom: 4px;
+  padding-top: 4px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid #F8F9FA;
+    transition: 0.5s;
+    
+}
+.btn5 {
+    border-radius: 30px 30px 30px 30px;
+    border: 0px solid white;
+
+    transition: 0.5s;
+    
+}
+.btn3 {
+    border-radius: 30px 30px 30px 30px;
+    border: 0px solid white;
+
+    transition: 0.5s;
+    background-image: linear-gradient(#FF3324, #9c27b0);
+}
+.btn4 {
+    border-radius: 30px 30px 30px 30px;
+    border: 0px solid white;
+
+    transition: 0.5s;
+    background-image: linear-gradient(#1DCC70, #9c27b0);
+}
+.text1 {
+  padding-top: 10px;
+}
+.btn1 {
+   background-color: #F8F3D4;
+   color: black;
+    border-radius: 15px 15px 15px 15px;
+   
+  padding-bottom: 4px;
+  padding-top: 4px;
+  padding-left: 25px;
+  padding-right: 25px;
+    transition: 0.5s;
+    
+}
+.vcard1 {
+    border: 0px solid white;
+transition: 0.5s;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  box-shadow:2px;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: right;
+  width: 50%;
+  padding: 0px;
+   /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.appHeader1 {
+	background-color: #fff !important;
+	border-color: #fff !important;
+}
+.modal-header1  {
+	background-image: url("bg.jpg");
+	border-color: #2196f3 !important;
+	padding:18px;
+
+	font-size:16px;
+}
+
+.user-block img {
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-right:10px;
+	background:#333;
+}
+
+.gap {
+  
+  column-gap: 1px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+.reaload {
+	box-shadow:none;
+}
+.ion-md-refresh {
+	font-size:26px !important;
+}
+.responsive {
+	height:300px;
+	overflow-x: auto;
+}
+.bottom-three {
+     margin-bottom: 3cm;
+  }
+.vcard {
+	box-shadow:none;
+}
+h5{ color:#888; font-size:20px; font-weight:normal;}
+h5 span{ color:#333; font-size:22px;}
+.divsize4 .btn{padding: 0 10px; width:100px;}
+.left-addon input {
+    padding-left: 20px;
+}
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+.error {
+    top: 45px;
+}
+.containerrecord{border-bottom: solid 2px #565EFF;}
+.recordlink{
+    font-size: 26px;
+    color: #333;
+	border-bottom: solid 2px #565EFF ;
+}
+.recordlink .title{font-size: 14px;
+font-weight: 500;}
+#alert h4{font-size: 1rem;}
+#alert p{font-size: 13px; margin-top:25px;}
+#alert .modal-content{border-radius:3px}
+#alert .modal-dialog{padding:30px; margin-top:200px;}
+#payment .modal-dialog{padding:10px;margin-top:60px;}
+#loader .modal-dialog{padding:30px; margin-top:200px;}

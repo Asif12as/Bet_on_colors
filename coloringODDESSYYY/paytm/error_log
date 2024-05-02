@@ -1,0 +1,9 @@
+[06-Jun-2022 07:29:28 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:28 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:28 UTC] PHP Fatal error:  require(): Failed opening required 'include/connection.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:31 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:31 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:31 UTC] PHP Fatal error:  require(): Failed opening required 'include/connection.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:32 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:32 UTC] PHP Warning:  require(include/connection.php): failed to open stream: No such file or directory in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
+[06-Jun-2022 07:29:32 UTC] PHP Fatal error:  require(): Failed opening required 'include/connection.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/velaexpr/public_html/lootlemoney.com/paytm/pgRedirect.php on line 9
