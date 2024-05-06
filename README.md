@@ -32,5 +32,5 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgements
-Credits to [insert name] for [insert contribution].
-Special thanks to [insert name] for [insert contribution].
+Credits to Md Ashif for [project completion].
+Special thanks to shubham raj and guddu kumar for [R & D in this project].
