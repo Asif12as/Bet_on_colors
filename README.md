@@ -7,10 +7,9 @@ Explore the vivid world of hues [here]([https://colorsorceryquest.in/login.php].
 
 Demo Pictures
 
-Caption: <add caption>
+![Demo 1](https://github.com/Asif12as/Bet_on_colors/blob/main/Screenshot%20(41).png)
+Caption: Preview of the color prediction game interface.
 
-
-Caption: <add caption>
 
 Features
 Color Prediction Game: Engage in an exciting color prediction game where users can place bets on various colors.
