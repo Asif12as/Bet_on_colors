@@ -2,7 +2,7 @@ Vivid Spectrum Seer: Unveiling Hues
 Welcome to Vivid Spectrum Seer, a vibrant platform where users can interact, engage, and bet on colors in a thrilling color prediction game! This web application is built using PHP, HTML, CSS, and JavaScript.
 
 ## Live Project Link
-Explore the vivid world of hues [here]([<insert link>](https://colorsorceryquest.in/login.php)).
+Explore the vivid world of hues [here]([https://colorsorceryquest.in/login.php].
 
 
 Demo Pictures
