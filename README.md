@@ -28,9 +28,12 @@ Have fun unraveling the hues of the Vivid Spectrum Seer!
 Contributing
 We welcome contributions to enhance the features and functionalities of Vivid Spectrum Seer. Feel free to submit pull requests or open issues for any improvements or bug fixes.
 
-License
+
+
+## License
 This project is licensed under the MIT License.
 
-Acknowledgements
-Credits to Md Ashif for [project completion].
-Special thanks to shubham raj and guddu kumar for [R & D in this project].
+## Acknowledgements
+- Credits to Md Ashif for project completion.
+- Special thanks to Shubham Raj and Guddu Kumar for their contributions in the research and development of this project.
+
